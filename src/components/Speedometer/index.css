@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.contain {
+  background-color: #07080c;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 400px;
+  height: 250px;
+}
+h1,
+p {
+  color: white;
+}
+
+.btn-1 {
+  background-color: blue;
+  color: white;
+  margin: 10px;
+}
+.btn {
+  background-color: #07080c;
+  color: white;
+  border-color: white;
+  outline: none;
+  cursor: pointer;
+}
